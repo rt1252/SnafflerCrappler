@@ -48,3 +48,6 @@ EXAMPLES
 ```
 # Report example
 <img width="953" height="500" alt="image" src="https://github.com/user-attachments/assets/3fe5ce7c-ac27-4bff-9fa5-64d4046ec7d3" />
+
+## Contributions
+Contributions of all kind are welcomed! Looking for files / filenames that have resulted in immediate easy to use creds that we can automatically score higher. For example we recently upped mRemoteNG confcons.xml to a score of 100 due to easy decryption.
