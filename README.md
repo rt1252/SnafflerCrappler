@@ -1,4 +1,6 @@
 # SnafflerCrappler, a better way to parse your Snaffle output into a 🔥 html report
+Credit to the [OG repo](https://github.com/zh54321/SnafflerParser), I modified things for personal usage.
+
 ## Usage
 ```
 C:\Users\User\Documents\GitHub\SnafflerCrappler\snafflerParser.ps1
